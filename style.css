@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  overflow: hidden;
+  background: url("https://wallpaperaccess.com/full/1155041.jpg");
+}
+
+
+canvas {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+/* 
+const jjFolder = gui.addFolder('jj')
+jjFolder.add(camera.position, 'x', -50, 50)
+jjFolder.open() */
